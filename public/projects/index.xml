@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects-rsses on BGill</title>
+    <link>https://github.bgill.eu/projects/index.xml</link>
+    <description>Recent content in Projects-rsses on BGill</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>Benjamin Gill</copyright>
+    <lastBuildDate>Mon, 17 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://github.bgill.eu/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Some sample populations</title>
+      <link>https://github.bgill.eu/projects/sample-populations/</link>
+      <pubDate>Mon, 17 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.bgill.eu/projects/sample-populations/</guid>
+      <description>
+
+&lt;p&gt;This is a small side-project to produce some sample populations in order to have
+a point of comparison when discussing the degree of diversity in UK technology
+companies. I am doing this by producing sample populations based on the
+population at large and other similar companies. I also have plans to extend
+this to be able to produce populations representing the weighted average of
+graduate recruitment.&lt;/p&gt;
+
+&lt;p&gt;Currently, this takes the form of &lt;a href=&#34;https://github.bgill.eu/diversity_populations.ods&#34;&gt;a spreadsheet&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;work-left-to-do&#34;&gt;Work left to do&lt;/h2&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Convert the data to a nicer format&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Get a full (or at least fuller) set of university diversity statistics&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; More categories - disabled/LGBTQ+?&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Have some sort of nice visualisation of all this&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

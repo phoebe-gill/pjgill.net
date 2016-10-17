@@ -1,0 +1,33 @@
+languageCode = "en-gb"
+baseurl = "https://github.bgill.eu"
+title = "BGill"
+copyright = "Benjamin Gill"
+
+[Author]
+    name = "Benjamin Gill"
+
+[Params]
+    intro = true
+    headline = "Benjamin Gill's website"
+    description = "Miscellaneous inane ramblings..."
+    github = "https://github.com/bjgill"
+    email = "website@bgill.eu"
+    opengraph = false
+
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/page/about/"
+    weight = 4
