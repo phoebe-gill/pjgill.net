@@ -13,5 +13,5 @@ omnivorous reader, and quite fond of operas and operettas.
 
 I can be contacted at [\<anything>@bgill.eu](mailto:website@bgill.eu).
 [My GPG key]
-(https://pgp.mit.edu/pks/lookup?op=vindex&search=0xB8D90097A597F067), has ID
+(https://pgp.mit.edu/pks/lookup?op=vindex&search=0xB8D90097A597F067) has ID
 A597F067 and fingerprint F45F B6FF 33DF DE3A 820D 7BB0 B8D9 0097 A597 F067.
