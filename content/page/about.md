@@ -1,5 +1,6 @@
 +++
 title = "About me"
+description = "an otherwise bald and unconvincing narrative"
 draft = false
 +++
 
@@ -7,6 +8,8 @@ I am Benjamin Gill, a software engineer and recent physics graduate, working for
 [Metaswitch Networks](https://www.metaswitch.com/). I am also an [amateur
 theatrical technician](https://www.camdram.net/people/benjamin-gill), an
 omnivorous reader, and quite fond of operas and operettas.
+
+# Contact
 
 I can be contacted at [\<anything>@bgill.eu](mailto:website@bgill.eu).
 [I have a GPG key]

@@ -11,7 +11,7 @@ canonifyurls = true
 [Params]
     intro = true
     headline = "Benjamin Gill's website"
-    description = "Miscellaneous inane ramblings..."
+    description = "idle chatter of a transcendental kind"
     github = "https://github.com/bjgill"
     email = "website@bgill.eu"
     opengraph = false
@@ -33,3 +33,8 @@ canonifyurls = true
     name = "About"
     url = "/page/about/"
     weight = 4
+
+[[menu.main]]
+    name = "Links"
+    url = "/page/links/"
+    weight = 5
