@@ -24,6 +24,7 @@ Some of the better freely available music recordings.
 * [Ruddigore (Act 1)](https://www.youtube.com/watch?v=SuO6P71x7yQ)
 * [Ruddigore (Act 2)](https://www.youtube.com/watch?v=PfpmTi042TU)
 * [The Sorcerer (Act 1)](https://www.youtube.com/watch?v=Z7pOrzjvxr0)
+* [Trial by Jury](https://www.youtube.com/watch?v=hM831_aDYfQ)
 
 ### Other
 
