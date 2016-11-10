@@ -31,6 +31,7 @@ Some of the better freely available music recordings.
 * [Don Giovanni](https://youtu.be/_6Csn-YCwIo?t=160)
 * [Rigoletto](https://www.youtube.com/watch?v=Bkh8Txyh3NY)
 * [Eugene Onegin](https://www.youtube.com/watch?v=n1Crz87zAfI)
+* [Barber of Seville](https://www.youtube.com/watch?v=z8K0xQOMHuU)
 
 ## Diplomacy
 
