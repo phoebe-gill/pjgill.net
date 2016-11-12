@@ -10,8 +10,8 @@ canonifyurls = true
 
 [Params]
     intro = true
-    headline = "Benjamin Gill's website"
-    description = "idle chatter of a transcendental kind"
+    headline = "Idle chatter of a transcendental kind"
+    description = "Benjamin Gill's website"
     github = "https://github.com/bjgill"
     email = "website@bgill.eu"
     opengraph = false

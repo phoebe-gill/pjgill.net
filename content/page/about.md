@@ -1,6 +1,6 @@
 +++
-title = "About me"
-description = "an otherwise bald and unconvincing narrative"
+title = "An otherwise bald and unconvincing narrative"
+description = "about me"
 draft = false
 +++
 

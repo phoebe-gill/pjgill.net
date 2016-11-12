@@ -1,6 +1,6 @@
 +++
-title = "Links"
-description = "isn't generally heard, and if it is it doesn't matter"
+title = "Isn't generally heard, and if it is it doesn't matter"
+description = "links"
 draft = false
 +++
 
