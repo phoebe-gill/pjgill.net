@@ -1,7 +1,6 @@
 +++
 title = "Tidy error handling"
 description = "The joys of Result and Option"
-draft = false
 date = "2016-11-28"
 
 +++
