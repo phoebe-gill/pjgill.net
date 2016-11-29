@@ -9,7 +9,7 @@ date = "2016-11-28"
 In some code I was looking through recently, I came across the following
 pattern:
 
-```rust
+{{< highlight rust >}}
 match a.do_something() {
     Ok(b) => {
         match b.do_something_else() {
@@ -19,19 +19,19 @@ match a.do_something() {
     }
     Err(err) => CustomError::from(err),
 }
-```
+{{< /highlight >}}
 
 It is very clear what that code is doing, and what all the possible paths are.
 However, there are ways of shortening this and reducing the level of indentation
 required. We could, for example, use `try!(...)` (or `...?` in 1.13):
 
-```rust
+{{< highlight rust >}}
 let mut b = try!(a.do_something());
 
 try!(b.do_something_else());
 
 Ok(())
-```
+{{< /highlight >}}
 
 However, this has certain drawbacks. This would fall apart if we wanted to do
 anything clever with the errors (e.g. write an error log before returning). I'm
@@ -40,12 +40,12 @@ also not particularly fond of `try!` - it implicitly introduces a bunch of
 
 Instead, the pattern I've come to prefer is as follows:
 
-```rust
+{{< highlight rust >}}
 a.do_something()
     .and_then(|b| b.do_something_else())
     .map(|_| ())
     .map_err(CustomError::from)
-```
+{{< /highlight >}}
 
 This has the advantage of conciseness, with each quantum of functionality on a
 separate line.
