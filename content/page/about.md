@@ -1,7 +1,5 @@
 +++
 title = "An otherwise bald and unconvincing narrative"
-description = "about me"
-draft = false
 +++
 
 I am Benjamin Gill, a software engineer and recent physics graduate, working for
