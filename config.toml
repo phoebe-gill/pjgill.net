@@ -4,6 +4,7 @@ title = "BGill"
 copyright = "Benjamin Gill"
 theme = "ghostwriter"
 canonifyurls = true
+PygmentsCodeFences = true
 
 [Author]
     name = "Benjamin Gill"
