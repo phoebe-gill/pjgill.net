@@ -1,5 +1,5 @@
 +++
-title = "[Don't drink the water and don't breathe the air](https://www.youtube.com/watch?v=9mvYec6AnCU)"
+title = "Don't drink the water and don't breathe the air"
 description = "How bad an idea is it to visit South Africa?"
 date = "2016-12-05"
 
@@ -34,3 +34,5 @@ Using this factor, I can multiply it by 12 days to get my reduction in life expe
 Compare this to an average person living in South Africa for all of their lives (all 62.4 years). They will have lost nearly a day of life expectancy.
 
 Intuitively, this feels quite small, given that later in the same article, the authors state that "these premature deaths cost the economy $20 billion (2011 International $), or 6% of South Africa’s 2012 GDP". Maybe I've made an arithmetic error, or my assumptions are much worse than I had expected. Maybe air pollution in South Africa really isn't that big a deal (except on statistical scales). Maybe air pollution only kills those who were on the point of dying from other causes anyway. I'm really not sure. Either way, I'll be watching out for [their paper](http://www.theigc.org/project/health-costs-of-energy-related-air-pollution-in-south-africa/), come March.
+
+[With thanks to Tom Lehrer for the title](https://www.youtube.com/watch?v=9mvYec6AnCU).
