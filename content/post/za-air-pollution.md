@@ -1,7 +1,7 @@
 +++
 title = "Don't drink the water and don't breathe the air"
 description = "How bad an idea is it to visit South Africa"
-date = "2016-11-28"
+date = "2016-12-05"
 
 +++
 
