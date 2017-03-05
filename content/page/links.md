@@ -15,13 +15,11 @@ Some of the better freely available music recordings.
 
 ## G&S
 
-* [Iolanthe (Act 1)](https://www.youtube.com/watch?v=FAGNd7vAZJk)
-* [Iolanthe (Act 2)](https://www.youtube.com/watch?v=xEqJPCfzKng)
-* [Pirates of Penzance (Act 1)](https://www.youtube.com/watch?v=mp9pKUca_JY)
-* [Pirates of Penzance (Act 2)](https://www.youtube.com/watch?v=5ABwl994bt0)
-* [Ruddigore (Act 1)](https://www.youtube.com/watch?v=SuO6P71x7yQ)
-* [Ruddigore (Act 2)](https://www.youtube.com/watch?v=PfpmTi042TU)
-* [The Sorcerer (Act 1)](https://www.youtube.com/watch?v=Z7pOrzjvxr0)
+* [Iolanthe](https://www.youtube.com/watch?v=FAGNd7vAZJk)
+* [Patience](https://www.youtube.com/watch?v=8P_Pm1d_9gA)
+* [Pirates of Penzance](https://www.youtube.com/watch?v=mp9pKUca_JY)
+* [Ruddigore](https://www.youtube.com/watch?v=SuO6P71x7yQ)
+* [The Sorcerer](https://www.youtube.com/watch?v=Z7pOrzjvxr0)
 * [Trial by Jury](https://www.youtube.com/watch?v=hM831_aDYfQ)
 
 ### Other
