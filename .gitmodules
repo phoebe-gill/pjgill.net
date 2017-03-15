@@ -1,6 +1,3 @@
 [submodule "themes/ghostwriter"]
 	path = themes/ghostwriter
 	url = https://github.com/bjgill/ghostwriter.git
-[submodule "static/experimental-physics-engconf2017"]
-	path = static/experimental-physics-engconf2017
-	url = https://github.com/bjgill/experimental-physics-engconf2017.git
