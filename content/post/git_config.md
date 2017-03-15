@@ -5,7 +5,7 @@ date = "2017-03-15"
 
 Compiled from various sources, this is what I use on a day-to-day basis. 
 
-Removes excessive verbiage from status, but not too much.
+Removes excessive verbiage from `status`, but not too much.
 ```
 alias.st=status -bs
 ```
