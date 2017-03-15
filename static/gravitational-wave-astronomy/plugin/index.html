@@ -1,0 +1,201 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/black.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+
+			<!-- Title slide -->
+				<!-- <section id="background01" data-background-video="images/WhtDwrfCollid_ProRes_720x486_59.94fps.webmhd.webm" data-background-video-loop data-background-video-muted > -->
+				<section>
+
+					<h1>Gravitational Wave Astronomy</h1>
+
+					<p>Benjamin Gill</p>
+
+					<aside class="notes">
+						STEM???
+					</aside>
+				</section>
+
+				<!-- Brief history of astronomy -->
+				<section>
+					<section>
+						<img src="images/HST.jpeg">
+
+						<aside class="notes">
+							History of astronomy.
+
+							<p>Started with Babylonians. Looking at light produced by things that glow. See many things (X-ray, gamma, CMB).
+						</aside>
+					</section>
+					<section>
+						<img src="images/Icecube.PNG">
+
+						<aside class="notes">
+							Neutrinos - Ice-Cube; cosmic rays
+						</aside>
+					</section>
+				</section>
+
+				<!-- What are gravitational waves -->
+				<section>
+					<img src="images/Spacetime_lattice_analogy.svg.png">
+
+					<aside class="notes">
+						What are gravitational waves?
+
+						<p>Stuff has mass; mass influences spacetime - spacetime tells mass how to move. Ripples like raindrop when mass changes.
+					</aside>
+				</section>
+
+				<section>
+					<p>
+						<video controls="1">
+							<source data-src="images/WhtDwrfCollid_ProRes_720x486_59.94fps.webmhd.webm" type="video/webm" controls="1">
+						</video>
+					</p>
+
+					<p><audio src="images/Inspiral.wav" type="audio/wav" controls="1">The sound of an inspiral</audio>
+
+					<aside class="notes">
+						Mass fixed, so get real grav. waves from accelerating masses (c.f. EM), e.g. BH inspiral caused by energy radiating in the form of G.W., which is how we know they MUST exist.
+					</aside>
+				</section>
+
+				<!-- How do we detect gravitational waves -->
+				<section>
+					<img src="images/GravitationalWave_PlusPolarization.gif">
+
+					<aside class="notes">
+						How do we detect gravitational waves?
+
+						<p>Detect changes in length of arms at 90 degrees</p>
+					</aside>
+				</section>
+
+				<section>
+					<section>
+						<img src="images/ligo-hanford-aerial-04.jpg">
+
+						<aside class="notes">
+							Interferometer measures 4 km arms to measure movement of < 1 proton width
+						</aside>
+					</section>
+					<section>
+						<img src="images/Basic_michelson_with_FP_labeled.jpg">
+
+						<aside class="notes">
+							FP means the equivalent of 112 km long 'conventional' interferometer. - see (e)LISA.
+						</aside>
+					</section>
+				</section>
+
+				<!-- Detections!!! -->
+				<section>
+					<section>
+						<img src="images/detection1.png" width=400>
+						<img src="images/detection2.png" width=400>
+						GW150914 + GW151226
+
+						<aside class="notes">
+							DETECTIONS!!!
+
+							<p>Both binary BH inspirals, both 5 sigma (1/200 000 yr spurious event rate), both detected by both labs. 14-Sep-2015 and 26-Dec-2015. Masses of ~40 Ms and ~5 Ms.</p>
+						</aside>
+					</section>
+
+					<section>
+						<img src="images/detection-more.png" height=600>
+
+						<aside class="notes">
+							Look at the relative speeds!
+						</aside>
+					</section>
+
+					<section>
+						<img src="images/BICEP2.jpg">
+
+						<aside class="notes">
+							False detection from pulsar timing array - actually just dust (probably(?))
+						</aside>
+					</section>
+				</section>
+
+				<!-- GR not disproved.,. -->
+				<section>
+					<img src="images/GRv2.jpg">
+
+					<aside class="notes">
+						GR not disproved
+
+						<p>Insufficient data, but start to narrow error bars with more events.</p>
+					</aside>
+				</section>
+
+				<!-- Futures -->
+				<section>
+					<img src="images/map.png" height=600>
+
+					<aside class="notes">
+						Futures
+
+						<p>Measure where event came from - two US detectors, so circle. New detectors in Italy, India.</p>
+					</aside>
+				</section>
+
+				<section>
+					<img src="images/future.png" height=600 width=550>
+
+					<aside class="notes">
+						More events expected in O2 run later this year (more sensitive).
+					</aside>
+				</section>
+
+				<!-- Questions -->
+				<section>
+					<h2>Questions?</h1>
+				</section>
+
+			</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				history: true,
+
+				// More info https://github.com/hakimel/reveal.js#dependencies
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+	</body>
+</html>
