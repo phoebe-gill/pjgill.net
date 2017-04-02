@@ -22,7 +22,7 @@ Those who are marginalised often have to practice code-switching/double consciou
 
 Sympathy != empathy - the latter implies some meaningful action.
 
-Those who are marginalised have an advantage - they have been forced to develop empathy. Empathy is important in design (e.g. UX). There is an empathy gap - minorities' energy expenditure often appears invisible. Empathy is based on lived experience, so cannot be taught - it must be earned.
+Those who are marginalised have an advantage - they have been forced to develop empathy. Empathy is important in design (e.g. UX). There is an empathy gap - the energy expenditure of those less privileged often appears invisible. Empathy is based on lived experience, so cannot be taught - it must be earned.
 
 # [Music of changes: an autobiographical talk about transition and immigration in the tech community](https://alterconf.com/talks/music-changes-autobiographical-talk-about-transition-and-immigration-tech-community)
 
@@ -81,7 +81,7 @@ See **How to stop hurting women in tech**.
 
 The speaker spoke of having internalised misogyny.
 
-'guys' - minorities bear the burden of validating themselves. This is particularly difficult for junior people.
+'guys' - those less privileged bear the burden of validating themselves. This is particularly difficult for junior people.
 
 Harassment (even subtle) in the workplace had a significant effect.
 
@@ -93,7 +93,7 @@ It is easy to believe we are in a meritocracy and miss all the small things. Con
 
 The speaker spoke of using the three strike rule to decide when to stop trying/giving the benefit of the doubt to colleagues.
 
-The speaker mentioned the importance of managing energy levels. Minorities do not have an obligation to disrupt the industry.
+The speaker mentioned the importance of managing energy levels. Those less privileged do not have an obligation to disrupt the industry.
 
 The women waving Slack emoji as a subtle response to the use of 'guys'/etc.
 
@@ -133,3 +133,24 @@ There exists a male visual language for identifying 'programmer', with no equiva
 
 See **Whistling Vivaldi**.
 
+'Stereotype threat' - when you remind the less privileged of their status, they perform worse. There is also background worrying which causes general misery.
+
+Women's participation in CS dropped off in the late 80s as PCs were marketed to boys/men. This also marked the rise of the male 'Geek' stereotype.
+
+Further decline in the mid 00s, as the .com bubble made software seem a less safe career choice.
+
+Thus:
+
+1. Numbers matter
+2. Numbers are malleable (on decadal scales)
+3. To fix numbers, culture matters.
+
+As an example, many German men play football, as do an above average number of US women - this is reflected in the strength of their national teams.
+
+Software developers receive much less than people in many other careers (c.f. medicine, physics). There is not typically a firm plan for professional development beyond osmosis.
+
+Demand for software is elastic (c.f. doctors, physicists), so we should not be afraid of expanding the workforce.
+
+We don't have a good means of determining programming proficiency, so tend to pattern match, selecting people who 'look the part'.
+
+Hence, non-diverse groups must have been created by a mediocre process that didn't select for talent/ability.
