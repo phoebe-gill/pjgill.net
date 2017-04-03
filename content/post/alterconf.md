@@ -1,9 +1,7 @@
 +++
 title = "AlterConf London"
-description = "Notes on a c"
-draft = true
-date = "2017-04-02"
-
+description = "Notes"
+date = "2017-04-03"
 +++
 
 I recently attended an [interesting conference](https://alterconf.com/conferences/london-england) that focused on diversity and inclusion in the software industry. What follows are the notes I made during the talks, typed up whilst still fresh. It's possible that I may be misrepresenting or in error - the [sketch notes](https://twitter.com/search?f=tweets&vertical=default&q=%23sketchnote%20from%3Aherecomesjaycee%20since%3A2017-03-31%20until%3A2017-04-02&src=typd) should be more authoritative. Search terms for more material are in **bold**.
