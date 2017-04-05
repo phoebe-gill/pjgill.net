@@ -26,6 +26,7 @@ Some of the better freely available music recordings.
 
 * [Barber of Seville](https://youtu.be/enEVv02f6bo?t=156)
 * [Candide](https://youtu.be/cMIzHnyuiNY?t=458)
+* [Cosi Fan Tutte](https://www.youtube.com/watch?v=Is7smVObK64)
 * [Don Giovanni](https://youtu.be/_6Csn-YCwIo?t=160)
 * [Eugene Onegin](https://www.youtube.com/watch?v=n1Crz87zAfI)
 * [Rigoletto](https://www.youtube.com/watch?v=Bkh8Txyh3NY)
