@@ -30,7 +30,7 @@ date = "2017-04-10"
 [commit]
     gpgSign = true
 [push]
-    gpgSign = true
+    gpgSign = if-asked
 [tag]
     forceSignAnnotated = true
 ```
