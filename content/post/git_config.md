@@ -3,6 +3,8 @@ title = "Some useful git aliases"
 date = "2017-03-15"
 +++
 
+EDIT (2017-04-10): supplanted by {{< ref "post/gitconfig.md" >}}
+
 Compiled from various sources, this is what I use on a day-to-day basis. 
 
 Removes excessive verbiage from `status`, but not too much.
