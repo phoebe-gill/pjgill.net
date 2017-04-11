@@ -3,7 +3,7 @@ title = "Some useful git aliases"
 date = "2017-03-15"
 +++
 
-EDIT (2017-04-10): supplanted by {{< ref "post/gitconfig.md" >}}
+EDIT (2017-04-10): I've now posted my [~/.gitconfig](https://gist.github.com/bjgill/6b440841c4fdb3fec056f45cc50038dc)
 
 Compiled from various sources, this is what I use on a day-to-day basis. 
 
