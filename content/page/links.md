@@ -1,5 +1,6 @@
 +++
-title = "Isn't generally heard, and if it is it doesn't matter"
+title = "Isn't generally heard"
+description = "and if it is it doesn't matter"
 +++
 
 ## Theatre

@@ -2,7 +2,7 @@
 title = "An otherwise bald and unconvincing narrative"
 +++
 
-I am Benjamin Gill, a software engineer and recent physics graduate, working for [Metaswitch Networks](https://www.metaswitch.com/). I am also an [amateur theatrical technician](https://www.camdram.net/people/benjamin-gill), an omnivorous reader, and quite fond of operas and operettas.
+I am Benjamin Gill, a software engineer and recent physics graduate, working for [Metaswitch Networks](https://www.metaswitch.com/). I am also an [amateur theatrical technician](https://www.camdram.net/people/benjamin-gill), member of the [local Green party](https://www.enfieldgreens.org.uk/), an omnivorous reader, and quite fond of operas and operettas.
 
 My preferred pronouns are he/him.
 
