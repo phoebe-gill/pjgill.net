@@ -9,3 +9,5 @@ My preferred pronouns are he/him.
 # Contact
 
 I can be contacted at [\<anything>@bgill.eu](mailto:website@bgill.eu). [My GPG key] (https://pgp.mit.edu/pks/lookup?op=vindex&search=0xB8D90097A597F067) has ID A597F067 and fingerprint F45F B6FF 33DF DE3A 820D 7BB0 B8D9 0097 A597 F067.
+
+For matters to do with the upcoming election, I can be contacted at [benjamin.gill@greenparty.org.uk](mailto:benjamin.gill@greenparty.org.uk).
