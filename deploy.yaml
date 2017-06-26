@@ -1,0 +1,9 @@
+---
+- hosts: website
+  tasks:
+  - name: pull latest version of the code
+    git: repo=https://github.com/bjgill/bjgill.github.io-generation.git dest=bjgill.github.io-generation
+  - name: regenerate website
+    shell: hugo -s bjgill.github.io-generation/ -d /www/
+  - name: flush one.com's cache
+    shell: cache-purge http://bgill.eu
