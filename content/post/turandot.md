@@ -1,5 +1,5 @@
 +++
-title = "\"I want the triumph! I want love!\"
+title = "\"I want the triumph! I want love!\""
 description = "Thoughts about the ROH's recent production of _Turandot_"
 date = "2017-08-08"
 +++
