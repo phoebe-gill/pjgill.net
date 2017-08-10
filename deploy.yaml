@@ -1,4 +1,5 @@
 ---
+# To run `ansible-playbook deploy.yaml -k`
 - hosts: website
   tasks:
   - name: pull latest version of the code
