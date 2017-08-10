@@ -22,6 +22,7 @@ Some of the better freely available music recordings.
 * [Ruddigore](https://www.youtube.com/watch?v=SuO6P71x7yQ)
 * [The Sorcerer](https://www.youtube.com/watch?v=Z7pOrzjvxr0)
 * [Trial by Jury](https://www.youtube.com/watch?v=hM831_aDYfQ)
+* [Yeomen Of The Guard](https://youtu.be/7XFjjN-JhRg)
 
 ### Other
 
