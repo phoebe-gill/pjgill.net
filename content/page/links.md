@@ -19,7 +19,7 @@ Some of the better freely available music recordings.
 * [Iolanthe](https://www.youtube.com/watch?v=FAGNd7vAZJk)
 * [Patience](https://www.youtube.com/watch?v=8P_Pm1d_9gA)
 * [Pirates of Penzance](https://www.youtube.com/watch?v=mp9pKUca_JY)
-* [Ruddigore](https://www.youtube.com/watch?v=SuO6P71x7yQ)
+* [Ruddigore](https://youtu.be/U1V5lEcaoIs)
 * [The Sorcerer](https://www.youtube.com/watch?v=Z7pOrzjvxr0)
 * [Trial by Jury](https://www.youtube.com/watch?v=hM831_aDYfQ)
 * [Yeomen Of The Guard](https://youtu.be/7XFjjN-JhRg)
