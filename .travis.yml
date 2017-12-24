@@ -13,4 +13,4 @@ install:
 
 script:
   - echo "$ANSIBLE_HOST" > ansible-hosts
-  - ansible-playbook deploy.yaml -i ansible-hosts
+  - ansible-playbook deploy.yaml -i ansible-hosts -vvvv
