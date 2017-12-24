@@ -3,7 +3,7 @@ title = "HTTPS Everywhere! Now including here"
 description = "This website now redirects HTTP → HTTPS"
 draft = false
 date = "2017-12-19"
-tags = []
+tags = ["software"]
 +++
 
 Shortly after initially creating this website just over a year ago, I discovered the setting that my hosting provider provides to turn on HTTPS access.

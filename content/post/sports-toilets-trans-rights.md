@@ -3,6 +3,7 @@ title = "'Integrity in sport' v.s. human rights - I thought the choice was clear
 description = "Our failure to take the initiative on trans sportspeoples' rights"
 draft = false
 date = "2017-10-18"
+tags = ["green", "diversity"]
 +++
 
 The recent Green Party conference was the first one I'd been to. I really enjoyed the four days - met a lot of interesting people, learnt many new things, and voted on a lot of good motions seeking to improve our policy and processes.[^2] There were a small number of things I was less happy with, however, of which this is one.

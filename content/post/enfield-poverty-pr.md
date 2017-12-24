@@ -2,6 +2,7 @@
 title = "Enfield: appalling poverty"
 draft = false
 date = "2017-05-16"
+tags = ["green"]
 +++
 
 At least 8,719 children in Enfield have been hit by the benefit cap, according to new figures from the Department of Work and Pensions.[^1] Greens will ensure that everyone in the UK – adults and children alike – has an income sufficient to fulfil basic needs.

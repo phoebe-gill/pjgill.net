@@ -3,9 +3,10 @@ title = "AlterConf London"
 description = "Diversity and inclusion in the tech industry"
 draft = false
 date = "2017-04-07"
+tags = ["diversity", "metaswitch"]
 +++
 
-I recently attended [AlterConf London](https://alterconf.com/conferences/london-england), a rather interesting conference examining diversity and inclusion in the software industry. 
+I recently attended [AlterConf London](https://alterconf.com/conferences/london-england), a rather interesting conference examining diversity and inclusion in the software industry.
 
 Write-ups of the talks are below. Two major themes emerged: why the industry should care about diversity and inclusion, and how we can help.
 
@@ -19,7 +20,7 @@ In Open Source Software (OSS) projects, code is of secondary importance. The pro
 
 It is in this context that [Codes](https://www.rust-lang.org/en-US/conduct.html) [of](https://alterconf.com/code-of-conduct) [Conduct](https://golang.org/conduct) (CoCs) are important[^1]. They provide the framework to guide a community through difficult events. Any OSS project of non-trivial size is certain to have such incidents.
 
-[^1]: this reasoning also applies to conferences. 
+[^1]: this reasoning also applies to conferences.
 
 Thus, a CoC should be one of the first things a new OSS project acquires. It's not enough to 'copy-paste' one into place, and then ignore it. To be effective, one must understood, kept up to date, and enforce a CoC. A project's CoC should be prominently linked from the main README.
 
@@ -31,7 +32,7 @@ Marginalised people have to spend effort fitting in with the majority culture. T
 
 [^3]: this was somewhat of a theme of the conference, referred to by several speakers
 
-This is an 'unfortunate advantage'.  Marginalised people have life experiences that force them to develop the empathy necessary to switch between multiple modes of existence. 
+This is an 'unfortunate advantage'.  Marginalised people have life experiences that force them to develop the empathy necessary to switch between multiple modes of existence.
 
 Empathy is the ability to understand others' desires and needs and act accordingly (mere sympathy lacks the latter). Life experience develops empathy - it is not something that can be taught. In software development, the ability to empathise with the users of your product is vital in ensuring that users wish to use it. Thus, to gain a competitive advantage, hire more lesser-privileged people.
 
@@ -78,7 +79,7 @@ To help people with mental health problems:
 * Most importantly: talk, listen, and _act!_
 * Ensure mental health is an option in the sick leave system.
 * Meeting-free days (perhaps 1/week?) can help
-* Quiet spaces 
+* Quiet spaces
 * Varied social events
 * On-site help (councilor?)
 

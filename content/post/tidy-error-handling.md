@@ -2,7 +2,7 @@
 title = "Tidy error handling"
 description = "The joys of Result and Option"
 date = "2016-11-28"
-
+tags = ["software"]
 +++
 
 In some code I was looking through recently, I came across the following
@@ -50,7 +50,7 @@ This has the advantage of conciseness, with each quantum of functionality on a
 separate line.
 
 [`std::option::Option`](https://doc.rust-lang.org/std/option/enum.Option.html)
-and 
+and
 [`std::result::Result`](https://doc.rust-lang.org/std/result/enum.Result.html)
 are two very powerful elements of Rust, both with a number of very useful
 methods. I'd thoroughly recommend reading their docs - I've been referring to

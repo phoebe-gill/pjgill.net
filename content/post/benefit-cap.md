@@ -3,6 +3,7 @@ title = "Benefit cap impact"
 description = "New data shows Enfield is amongst the hardest hit"
 draft = false
 date = "2017-05-11"
+tags = ["green"]
 +++
 
 Last week, the Department of Work and Pensions slipped out [new statistics](https://www.gov.uk/government/statistics/benefit-cap-number-of-households-capped-to-february-2017) that reveal the impact of the benefit cap. Introduced by the Tory-LibDem coalition in April 2013, it was made even more harsh in February.

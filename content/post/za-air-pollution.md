@@ -2,14 +2,14 @@
 title = "Don't drink the water and don't breathe the air"
 description = "How bad an idea is it to visit South Africa?"
 date = "2016-12-05"
-
+tags = ["green"]
 +++
 
 I recently read a [rather interesting article about air pollution in South Africa](http://www.theigc.org/blog/the-cost-of-air-pollution-in-south-africa/). This is particularly interesting to me, since I will be visiting the country in the near future - if I spend 12 days there, roughly how much life expectancy will that cost me?
 
 ## Data
 
-* The article suggested that 27 000 premature deaths across South Africa were caused by "chronic exposure to fine [Particulate Matter (PM)]". 
+* The article suggested that 27 000 premature deaths across South Africa were caused by "chronic exposure to fine [Particulate Matter (PM)]".
 * Independently, the WHO has figures for [premature deaths and DALYs lost to outdoor air pollution](http://www.who.int/quantifying_ehimpacts/national/countryprofile/mapoap/en/).
 * Statistics South Africa estimates [population at 55.91 million and life expectancy at ~62.4 years](http://www.statssa.gov.za/publications/P0302/P03022016.pdf)
 

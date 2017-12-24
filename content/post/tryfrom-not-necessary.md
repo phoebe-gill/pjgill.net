@@ -1,7 +1,7 @@
 +++
 title = "TryFrom is not really necessary"
 date = "2016-11-28"
-
+tags = ["software"]
 +++
 
 Not when we can do:

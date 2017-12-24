@@ -3,6 +3,7 @@ title = "A Vindication of the Importance of Context"
 description = "Woolstonecraft's work belatedly read"
 draft = false
 date = "2017-06-26"
+tags = ["books", "diversity"]
 +++
 
 Last month, I finally got round to reading _A Vindication of the Rights of Women_ by Mary Woolstonecraft. I wish I'd read it five years ago.

@@ -1,6 +1,7 @@
 +++
 title = "A thought on healthcare funding"
 date = "2017-03-05"
+tags = ["green"]
 
 +++
 

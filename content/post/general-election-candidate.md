@@ -3,6 +3,7 @@ title = "Representing Edmonton"
 description = "Why I'm standing for the Green Party"
 draft = false
 date = "2017-04-28"
+tags = ["green"]
 +++
 
 It will be my great privilege to be the Green party candidate for Edmonton in the upcoming election.

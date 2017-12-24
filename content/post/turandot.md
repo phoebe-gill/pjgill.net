@@ -2,6 +2,7 @@
 title = "\"I want the triumph! I want love!\""
 description = "Thoughts about the ROH's recent production of _Turandot_"
 date = "2017-08-08"
+tags = ["music", "diversity"]
 +++
 
 Recently, I saw a performance of [_Turandot_](http://www.roh.org.uk/productions/turandot-by-andrei-serban) - Puccini's final opera - at the Royal Opera House. It was very enjoyable, but left me with some interesting thoughts.
@@ -10,7 +11,7 @@ Let me start by saying that I think it was a good production, albeit marred by m
 
 Most obviously, the gong. I'm sure there was a good reason why Calef only pretended to strike it. However, as a piece of theatre, those few seconds were jarringly unconvincing.
 
-I want to talk more substantively about the direction, however. 
+I want to talk more substantively about the direction, however.
 
 It seems to me the the greatest Directors are capable of completely subverting or twisting a work whilst changing not a word or note.
 

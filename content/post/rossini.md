@@ -1,7 +1,7 @@
 +++
 title = "Rossini is awesome"
 date = "2016-11-30"
-
+tags = ["music"]
 +++
 
 So I've been listening to quite a bit of Rossini over the past couple of days, starting with the _Barber of Seville_. It turns out that I really quite like his music.
