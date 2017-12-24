@@ -1,0 +1,13 @@
+---
+language: python
+python: "2.7"
+
+before_install:
+  - sudo apt-get update
+
+install:
+  - sudo apt-get install -y ansible sshpass
+
+script:
+  - echo "$ANSIBLE_HOST" > /etc/ansible/hosts
+  - ansible-playbook deploy.yaml -k

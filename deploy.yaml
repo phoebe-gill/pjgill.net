@@ -1,6 +1,6 @@
 ---
 # To run `ansible-playbook deploy.yaml -k`
-- hosts: website
+- hosts: ssh.bgill.eu
   tasks:
   - name: pull latest version of the code
     git: repo=https://github.com/bjgill/bgill.eu.git dest=bjgill.github.io-generation
