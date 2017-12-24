@@ -1,5 +1,5 @@
 ---
-# To run `ansible-playbook deploy.yaml -k`
+# To run `ansible-playbook deploy.yaml`
 - hosts: ssh.bgill.eu
   tasks:
   - name: pull latest version of the code

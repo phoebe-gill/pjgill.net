@@ -2,6 +2,9 @@
 language: python
 python: "2.7"
 
+addons:
+  ssh_known_hosts: ssh.bgill.eu
+
 before_install:
   - sudo apt-get update
 
