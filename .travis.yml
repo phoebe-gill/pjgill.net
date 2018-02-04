@@ -1,16 +1,29 @@
----
-language: python
-python: "2.7"
+sudo: true
+language: go
+
+env:
+  global:
+    - secure: "QaWRqQuEvo412+BgiUbxIkTIpiwYbRvie2KCEjhpP2jEoS0on0NCvblW5XZOD9CjnbnOo3qi1WTkpRPzxRfHqgBe7bDPQ7/mAmYl//qlBeUViUIL0Ze0e29JhYzZdkVBcBU0I8sko7EmAJ6cnaZvUjVFejF+MyW9muG9D3I669X1b2TiLmiERuZu79QzwNb6f9CMHKxgYlBHTsB57XxoqJLhXiF01kMHNFzQAMtkTzSNxA66r02G5thWGSI6WdWtdOiZ8X+sDTcGJrwqEPTpdaRZfGKM+m38VMqR4R+9FSFOZiITQ7gZXPpY9h9ezptm0cG1J7KuF8wCzIrNPpWobfqDk2XtMTMOmx9D4uVvAK4ov9SqAq7i4ODaacLoVFGf/GkLxBC7pXQipqtbpJBpk3f9x7CVr/L7WMeigUjnyjEUkPQ1alrkMx2MMT6SZODMCn2iBoCjdh0Avg46DNRHH8kgMvPhZeSOjlsu4hUl6cvbaJtlDvL9o3Kd6ABXVPYBgVZ1E8tkg74r1A/4J4VlEsnU7UO/bEp+nvc3buGBXTPqgPXgtmRttUb4uBUkboWrpybqF3jSJlV+zS2r34/iOOGMs7dGG7S7HJfUU3rI/qhgybpzlQ63CIQWPE0V6rtIMWFvZc44oKXMlV+CxiV1I9dkoIwNnaXBLZWSZLrRGrA="
+    - secure: "nSIYHc55xOKY/GjiDvzRTC6C/gFBdH7PY9EhLWuMdZ1Y7k/TUOUb1WsOGEzXZ/fQPP0eFVTNgZKQKcA0tjGYixEJoZj2MS0uMs7GrWBeLHfjN1G9q5meI4KEOvoP5RRSRNUyojIxeFhk7/7f7vvUBPzi1vQmYQVVRPU+Vs5bFop/3m5MlKbpdG+jJi9Gtsu6nOqQHUH5nJNCm4lc+qIcnU7GRG+INprGvj+EIAcrvBix9IDa8VjVr4+SsrJhep0uAojINDA4E5rYHH+JLWDzjYG5quweRn9X4d06HebxvlG60L+lhw9PuPiswRWsQNUqHRZM3YXgkXbEoDONKcOQQNaLzE2wItk+bT3J2myNbxKAk8LHOoR5tPUXq6L5i3nouw/KlZQ0NC+1p3rGrh8l+Js2t2jc7RzZfvg+ZKLSqoUVl+ohTi1+AzXotz/LBiSfvHET7G9b4IXx97n7nhoPhEyD9rDopHB9kSViJqOgoFjuv97Lz/RJZtmPVe02W0k4IHecSQ3anC1g0F6ODoJWlPT3NPKn65UCl4u2oELDC2XGfnpUXuCF178rGp51Qb8lFgByFZE8QdtMe5pxYp77bZKxpURYDP+xlbSmXTt6bg3kTKZJEzolfzjjJ5o2Y0PSVp8P/Othq3L+P2o09cg+Wduc2PtKSXwnUmpFWnAK4m0="
+    - secure: "aSaWdusg+1c3rEuJUi9MYd9m0X/Ts5Mc2uBTf9h/tHKNTJoK1FbVV8b7Wv9PQh76PvOTM9pN9m/ZqwjQzcsHuIkHlDiKWXCSrOaTE3xBfOW3PyY07xwjspzjQ2QVQrZAWcxzu3Ox7v959YHCVxI9m9DX+/Oh8kPhkDkUnA3iZQqJ2V+VdKY4zlYAyHclFElSLjjmyki+xBZcPQ7v4Sp7c2ITHOYUI8mQVl3rXNQ9pv7+GkAlw6wUaAyMDLXYv69vekV0UdKUU0cW9a7Ul/jxlCWAm4Cb2p8E3hQEBW9uvXl65giNaauoH+mbN0gEDdJnk8oqLGdUJm5fkDnOH7ysjkjlSYAyLaGPxfbpzyHEfcLYHHBlvDrP5JEwjc50sO30kydKimAGXU6EeWIXXcQnXsFMZGDalg+UTswVwIEi/89mcupPdYIbLk6qu/0RCCoeOj43ciTNuy7FikzkrKP/o9r2Ui89XC7yYlzGoe2aQTiA9K2qKuBSIOT2iphgPIynD9GcMhsDdpfaeRV12DKk3RN9KaPZP1x30mh2xIoDBD4TNxh6h9J9UDo2vI4OdG+mDFI607hLsEiznxXLsnjC5rkRmAwbG0bAUphDEX4XmjF5UyVxucSrL3uZlbv+I3FczjtT9YGKuDCLIL6vzmyxwkIt6CXRunakAEpwBIPEwK4="
+    - secure: "pWXnmAGXkZEzPywdGNwGD14P8Mcm3i4tKxMm7ujeT12F6T+bCpz7NV0RTQwzJtxo0gxHp+6yWkW8IJvOjQFK3UO7iTM88BSABRqd+MqPiOQhubVHn31OhyGrg18GEnfyWRA6oWLxNhXstYo0Gn62Elg5LvV+WeTREfQDu5ntr6i6E9RVh6REjCBUbZhQQO+DDzAtuX2GLHo3DmbleE23SK8gTD7pWPHAXHp2ConfO/qq+c+Ff2QWDeYOqQ9vA5qJW/ZTqmzy84ewZA2E04tXJXyGuRvqxyPahUNVx9fsRSXYXSO2Si6qcb1EShH4ZmeSc20sIfUdqk18VwN0vdxirm4Gwbz/egb0vx2HgVjT6cFn3/GbPvIJAwWur0/ejmuTfD46UmYolZe0AkeI4OLMGRAReqakuZRwu5Q7klbq5u0+zAmLGeaFcFztAZDT4Er4G55+COaiur/dae59S6u/ar8NYh9xfVY2e6NjqKh4BHlcVcfkKJZDIQetuSvp6hxRB1SoSaXcCkf07g8kZvQyFzZRDgcXXgXHevjoy8OB5ykGkgp/s7zwwbnDcnViqtNHShV7J/zT5qYm6gH920P5NYLLNNCubt14HDDkjziOzOkIVlgO/ciCFB++HXtEBw6qD0Wem7kleVmR7VDacetEYQWVywR81zBLWR6ipPicqcM="
 
 addons:
   ssh_known_hosts: ssh.bgill.eu
 
 before_install:
-  - sudo apt-get update
+  - sudo apt-get update -qq
+  - sudo apt-get install -y sshpass
 
 install:
-  - sudo apt-get install -y ansible sshpass
+  - go get github.com/spf13/hugo
 
 script:
-  - echo "$ANSIBLE_HOST" > ansible-hosts
-  - ansible-playbook deploy.yaml -i ansible-hosts -vvvv
+  - hugo -d www/
+
+deploy:
+  - provider: script
+    script: ./deploy.sh
+    skip_cleanup: true
+    on:
+      branch: master
