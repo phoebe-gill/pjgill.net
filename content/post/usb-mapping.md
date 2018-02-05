@@ -1,8 +1,8 @@
 +++
 title = "Using a Yubikey inside a VirtualBox VM"
 description = "An introductory guide"
-draft = true
-date = "2018-01-26"
+draft = false
+date = "2018-02-05"
 tags = ["software", "metaswitch"]
 +++
 
