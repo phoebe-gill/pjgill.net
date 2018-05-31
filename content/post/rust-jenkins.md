@@ -19,7 +19,7 @@ We start off with some Jenkins slaves with docker installed. Rust compilation is
 
 We can then create a [Jenkinsfile](https://jenkins.io/doc/book/pipeline/) containing all the configuration we need for our CI pipeline as follows:
 
-```jenkinsfile
+```groovy
 pipeline {
     agent {
         table 'rust'
