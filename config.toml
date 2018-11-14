@@ -12,7 +12,7 @@ canonifyurls = true
     intro = true
     headline = "Idle chatter of a transcendental kind"
     github = "https://github.com/bjgill"
-    email = "website@bgill.eu"
+    email = "website@bjgill.net"
     opengraph = false
 
 [Permalinks]
