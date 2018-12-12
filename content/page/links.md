@@ -26,7 +26,7 @@ Some of the better freely available music recordings.
 
 ### Other
 
-* [Barber of Seville](https://youtu.be/enEVv02f6bo?t=156)
+* [Barber of Seville](https://youtu.be/oSjyDH4MJCc?t=60)
 * [Candide](https://youtu.be/cMIzHnyuiNY?t=458)
 * [Cosi Fan Tutte](https://www.youtube.com/watch?v=Is7smVObK64)
 * [Die Entführung aus dem Serail](https://www.youtube.com/watch?v=KpXVy4qsMOA)
