@@ -34,4 +34,4 @@ deploy:
     script: rclone copy www fastmail:b.bjgill.net/files/website -v --webdav-pass $WEBDAV_PASSWORD --config rclone.conf
     skip_cleanup: true
     on:
-      branch: fastmail
+      branch: master
