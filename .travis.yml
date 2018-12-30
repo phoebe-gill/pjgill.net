@@ -7,6 +7,8 @@ env:
     - secure: "nSIYHc55xOKY/GjiDvzRTC6C/gFBdH7PY9EhLWuMdZ1Y7k/TUOUb1WsOGEzXZ/fQPP0eFVTNgZKQKcA0tjGYixEJoZj2MS0uMs7GrWBeLHfjN1G9q5meI4KEOvoP5RRSRNUyojIxeFhk7/7f7vvUBPzi1vQmYQVVRPU+Vs5bFop/3m5MlKbpdG+jJi9Gtsu6nOqQHUH5nJNCm4lc+qIcnU7GRG+INprGvj+EIAcrvBix9IDa8VjVr4+SsrJhep0uAojINDA4E5rYHH+JLWDzjYG5quweRn9X4d06HebxvlG60L+lhw9PuPiswRWsQNUqHRZM3YXgkXbEoDONKcOQQNaLzE2wItk+bT3J2myNbxKAk8LHOoR5tPUXq6L5i3nouw/KlZQ0NC+1p3rGrh8l+Js2t2jc7RzZfvg+ZKLSqoUVl+ohTi1+AzXotz/LBiSfvHET7G9b4IXx97n7nhoPhEyD9rDopHB9kSViJqOgoFjuv97Lz/RJZtmPVe02W0k4IHecSQ3anC1g0F6ODoJWlPT3NPKn65UCl4u2oELDC2XGfnpUXuCF178rGp51Qb8lFgByFZE8QdtMe5pxYp77bZKxpURYDP+xlbSmXTt6bg3kTKZJEzolfzjjJ5o2Y0PSVp8P/Othq3L+P2o09cg+Wduc2PtKSXwnUmpFWnAK4m0="
     - secure: "aSaWdusg+1c3rEuJUi9MYd9m0X/Ts5Mc2uBTf9h/tHKNTJoK1FbVV8b7Wv9PQh76PvOTM9pN9m/ZqwjQzcsHuIkHlDiKWXCSrOaTE3xBfOW3PyY07xwjspzjQ2QVQrZAWcxzu3Ox7v959YHCVxI9m9DX+/Oh8kPhkDkUnA3iZQqJ2V+VdKY4zlYAyHclFElSLjjmyki+xBZcPQ7v4Sp7c2ITHOYUI8mQVl3rXNQ9pv7+GkAlw6wUaAyMDLXYv69vekV0UdKUU0cW9a7Ul/jxlCWAm4Cb2p8E3hQEBW9uvXl65giNaauoH+mbN0gEDdJnk8oqLGdUJm5fkDnOH7ysjkjlSYAyLaGPxfbpzyHEfcLYHHBlvDrP5JEwjc50sO30kydKimAGXU6EeWIXXcQnXsFMZGDalg+UTswVwIEi/89mcupPdYIbLk6qu/0RCCoeOj43ciTNuy7FikzkrKP/o9r2Ui89XC7yYlzGoe2aQTiA9K2qKuBSIOT2iphgPIynD9GcMhsDdpfaeRV12DKk3RN9KaPZP1x30mh2xIoDBD4TNxh6h9J9UDo2vI4OdG+mDFI607hLsEiznxXLsnjC5rkRmAwbG0bAUphDEX4XmjF5UyVxucSrL3uZlbv+I3FczjtT9YGKuDCLIL6vzmyxwkIt6CXRunakAEpwBIPEwK4="
     - secure: "pWXnmAGXkZEzPywdGNwGD14P8Mcm3i4tKxMm7ujeT12F6T+bCpz7NV0RTQwzJtxo0gxHp+6yWkW8IJvOjQFK3UO7iTM88BSABRqd+MqPiOQhubVHn31OhyGrg18GEnfyWRA6oWLxNhXstYo0Gn62Elg5LvV+WeTREfQDu5ntr6i6E9RVh6REjCBUbZhQQO+DDzAtuX2GLHo3DmbleE23SK8gTD7pWPHAXHp2ConfO/qq+c+Ff2QWDeYOqQ9vA5qJW/ZTqmzy84ewZA2E04tXJXyGuRvqxyPahUNVx9fsRSXYXSO2Si6qcb1EShH4ZmeSc20sIfUdqk18VwN0vdxirm4Gwbz/egb0vx2HgVjT6cFn3/GbPvIJAwWur0/ejmuTfD46UmYolZe0AkeI4OLMGRAReqakuZRwu5Q7klbq5u0+zAmLGeaFcFztAZDT4Er4G55+COaiur/dae59S6u/ar8NYh9xfVY2e6NjqKh4BHlcVcfkKJZDIQetuSvp6hxRB1SoSaXcCkf07g8kZvQyFzZRDgcXXgXHevjoy8OB5ykGkgp/s7zwwbnDcnViqtNHShV7J/zT5qYm6gH920P5NYLLNNCubt14HDDkjziOzOkIVlgO/ciCFB++HXtEBw6qD0Wem7kleVmR7VDacetEYQWVywR81zBLWR6ipPicqcM="
+    # WEBDAV_PASSWORD
+    - secure: "Ysm4EMNpUgT/OPTeTzdgk2/tgKOZfqDUbWv+3Dz49B/w1G5FRr91/UQyt/BzQHpn+rHxO3Noo9NSF4NfD2gqwvQ9FW9Jj996Cj4n2Pum166PpxPxbMR4zIOMZl8TZck2W6T2cIyyoHA0Em/THOrJZBx+L/q9XcjJLxrToqvRCNU7xdJe2+bwIL0telhboBrZKUuMDy2uKbLmIS4Y8UKzG9TfwUl1oLKRC7g701PIwtGSXQY9wawgMnSqJ+eLT4iu3uYDF/EPwkXbhyLhNOT4ZucVw4G9s6L5uKOjg08V/CqsVJE5CesHVlYWErgUmeYLQ1+itPzQ/UXLsLRD7NUjNt1lFF3KMo1drxLNDWA3RSzP8HQKqdHgOrrzTIZAIHSBBwyX/l2GRKlZ8kzCOrANWh4euluZOp8dAtyvVDIbK7HGvUxcO3flKF0d10An2vLdryKJYban50eDFZjAeqltr1fmrXB8F9IFfAgO2rN+l6vCdWjAoCukCkDgwQTn1yk3kNfE4J2ceyYljYbz0L3+d21ai+/F6i5x9F88Du0aBmrQmwVjGi/cMSMLlcgBQT00KkfeiLlji2OasN7HDIcyhCiC3yndXEiRl06oQL+IFNhTWNJ3XOvRO5GTugJ6COFvl03p+0ro3vOFyKoeLGzGb8CPClYQPsrhgH1QaJQ+ORg="
 
 addons:
   ssh_known_hosts: ssh.bgill.eu
@@ -14,6 +16,7 @@ addons:
 before_install:
   - sudo apt-get update -qq
   - sudo apt-get install -y sshpass
+  - curl https://rclone.org/install.sh | sudo bash
 
 install:
   - go get github.com/spf13/hugo
@@ -24,6 +27,11 @@ script:
 deploy:
   - provider: script
     script: ./deploy.sh
+    skip_cleanup: true
+    on:
+      branch: master
+  - provider: script
+    script: rclone copy www fastmail:b.bjgill.net/files/website -v --webdav-pass $WEBDAV_PASSWORD --config rclone.conf
     skip_cleanup: true
     on:
       branch: master
