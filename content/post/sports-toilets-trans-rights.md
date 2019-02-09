@@ -6,6 +6,9 @@ date = "2017-10-18"
 tags = ["green", "diversity"]
 +++
 
+**This post was published before I became a civil servant. I am unable say whether I still agree with it.**
+
+
 The recent Green Party conference was the first one I'd been to. I really enjoyed the four days - met a lot of interesting people, learnt many new things, and voted on a lot of good motions seeking to improve our policy and processes.[^2] There were a small number of things I was less happy with, however, of which this is one.
 
 [^2]: I was also very pleased by the presence of gender-neutral toilets, captioning of the plenaries and main speeches, and inclusion cards.

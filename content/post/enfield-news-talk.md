@@ -6,6 +6,8 @@ date = "2018-02-04"
 tags = ["green", "metaswitch"]
 +++
 
+**This post was published before I became a civil servant. I am unable say whether I still agree with it.**
+
 Last week, I gave ~100 of my colleagues a 7-minute tour of the past year's news in the local borough. It was quite rewarding, and I believe a good means of spurring interest in local politics. In this post, I'll talk about how this came to pass, and why you should think of doing likewise.
 
 My employer - Metaswitch - is a company of about 700 people, with ~400 based in our head office in Enfield. At least 100 employees (of whom I am one) live in Enfield. Despite this, I've come to observe that some of my colleagues (including some who lived in the borough) knew nothing of local affairs.
