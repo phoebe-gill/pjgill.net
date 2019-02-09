@@ -2,9 +2,12 @@
 title = "An otherwise bald and unconvincing narrative"
 +++
 
-I am Benjamin Gill,[^1] a software engineer and recent physics graduate, working for [Metaswitch Networks](https://www.metaswitch.com/). I am also an [amateur theatrical technician](https://www.camdram.net/people/benjamin-gill), member of the [local Green party](https://www.enfieldgreens.org.uk/), an omnivorous reader, and quite fond of operas and operettas.
+I'm Benjamin Gill,[^1] a developer working for you[^2] and employed by the [Government Digital Service](https://gds.blog.gov.uk/). I'm helping to develop [GOV.UK Verify](https://www.gov.uk/verify), a way to securely access government services online.
 
 [^1]: I prefer 'Benjamin', _not_ 'Ben'
+[^2]: Probably. If you're not a UK citizen and not living in the UK, I'm unlikely to be directly helping you, sorry.
+
+I am also an [amateur theatrical technician](https://www.camdram.net/people/benjamin-gill), avid board gamer, omnivorous reader, and really quite fond of opera.
 
 My preferred pronouns are he/him (though with no objection to gender-neutral alternatives).
 
