@@ -6,7 +6,7 @@ date = "2019-02-12"
 
 The other day, our frontend integration tests were broken on my machine. These tests use Selenium, a tool for testing web pages using Firefox. It turned out that Firefox was waiting to install updates, and this broke Selenium.
 
-Upon relalising what was happening, one of my colleagues asked me why I was using Firefox. The rest of the team uses Chrome. This, then, is my answer.
+Upon realising what was happening, one of my colleagues asked me why I was using Firefox. The rest of the team uses Chrome. This, then, is my answer.
 
 I initially switched to Firefox at the release of Firefox Quantum - the first version of Firefox to contain code written in the Rust programming language. At the time, I was working primarily in Rust. So I wanted to see for myself what the first major use of Rust in the real world looked like.
 
