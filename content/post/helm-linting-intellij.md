@@ -1,7 +1,6 @@
 +++
 title = "Enabling custom Kubernetes resource support in IntelliJ"
-date = "2019-09-27"
-draft = true
+date = "2020-07-12"
 tags = ["gds", "software"]
 +++
 
