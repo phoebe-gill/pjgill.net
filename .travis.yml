@@ -21,8 +21,8 @@ before_install:
   - curl https://rclone.org/install.sh | sudo bash
 
 install:
-  - curl -LO https://github.com/gohugoio/hugo/releases/download/v$HUGO_VERSION/hugo_$HUGO_VERSION_Linux-64bit.deb
-  - sudo dpkg -i hugo_$HUGO_VERSION_Linux-64bit.deb
+  - curl -LO https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.deb
+  - sudo dpkg -i hugo_${HUGO_VERSION}_Linux-64bit.deb
 
 script:
   - hugo -d www/
