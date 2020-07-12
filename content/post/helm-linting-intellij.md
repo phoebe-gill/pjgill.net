@@ -13,8 +13,8 @@ However, this does mean that most IDEs refuse to handle our Kubernetes charts du
 I've written a [small python script](https://gist.github.com/bjgill/dad40bbec2263f8a96b083b1b3fa6e18) to extract the definitions from the default `kubectl` output. This produces a set of files that IntelliJ will happily ingest.
 
 ```
-$ python tools/get_cdrs.py -h
-usage: get_cdrs.py [-h] destination
+$ python get_crds.py -h
+usage: get_crds.py [-h] destination
 
 Extract Kubernetes Custom Resource Definitions (CRDs) from the raw output of
 `kubectl get crds -o yaml` for use by IntelliJ Ultimate.
@@ -25,7 +25,7 @@ positional arguments:
 optional arguments:
   -h, --help   show this help message and exit
 
-$ kubectl get crds -o yaml | python tools/get_cdrs.py tmp/crds
+$ kubectl get crds -o yaml | python get_crds.py tmp/crds
 Finished creating CRDs. Now go to Preferences -> Languages & Frameworks -> Kubernetes and add all the CRDs in tmp/crds.
 $
 ```
