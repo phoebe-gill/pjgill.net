@@ -8,13 +8,13 @@ I am publishing this page to allow my colleagues to compare their salaries with 
 
 # Government Digital Service (2019-present)
 
-My salary is currently £56 000. If you include the equivalent value of the civil service pension, this becomes ~£67 000.
+I currently work part time (90%), with a full-time-equivalent salary of £56 000. The civil service pension adds the equivalent of another ~20%.
 
 I was hired as a Developer, for which the advertised range was £48 000 to £56 000. That was for band 'A.London'.
 
 # Metaswitch (2015-8)
 
-Metaswitch views salary information as confidential. However, I think I can safely say that my final salary was less than my starting salary at GDS.
+My salary at Metaswitch ended at £48 000, with an annual bonus of about £2000. I also had a number of share options, but left before the Microsoft acquisition, so they were worthless.
 
 The Metaswitch starting salary for graduate hires was £32 000 when I joined, and is now £35 000.
 
