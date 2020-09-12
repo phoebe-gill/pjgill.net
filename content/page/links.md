@@ -3,18 +3,10 @@ title = "Isn't generally heard"
 description = "and if it is it doesn't matter"
 +++
 
-## Theatre
-
-* A (mostly) complete list of credits can be found on
-[camdram](https://www.camdram.net/people/benjamin-gill)
-* [Queens' College Fitzpatrick Hall wiki](https://fitzpat.soc.srcf.net)
-* [QJCR Ents - cheapest (?) source of hire kit in Cambridge](http://qents.org/)
-(disclosure: I was their technical director 2014--15)
-
 ## Music
-Some of the better freely available music recordings.
+Here are some music recordings I like.
 
-## G&S
+### G&S
 
 * [Iolanthe](https://www.youtube.com/watch?v=FAGNd7vAZJk)
 * [Patience](https://www.youtube.com/watch?v=8P_Pm1d_9gA)
@@ -33,8 +25,3 @@ Some of the better freely available music recordings.
 * [Don Giovanni](https://youtu.be/_6Csn-YCwIo?t=160)
 * [Eugene Onegin](https://www.youtube.com/watch?v=n1Crz87zAfI)
 * [Rigoletto](https://www.youtube.com/watch?v=Bkh8Txyh3NY)
-
-## Diplomacy
-
-* [Cambridge University Diplomacy and Board Gaming Society]
-(http://www.dip.soc.ucam.org/)
