@@ -19,4 +19,4 @@ jobs:
       - name: Build
         run: hugo -d www/
       - name: Deploy
-        run: rclone copy www fastmail:b.bjgill.net/files/website -v --webdav-pass $WEBDAV_PASSWORD --config rclone.conf
+        run: rclone copy www fastmail:b.bjgill.net/files/website -v --webdav-pass ${WEBDAV_PASSWORD} --config rclone.conf
