@@ -2,7 +2,7 @@
 title = "An otherwise bald and unconvincing narrative"
 +++
 
-I'm Benjamin Gill,[^1] a developer working for you[^2] and employed by the [Government Digital Service](https://gds.blog.gov.uk/). I'm working on the [Digital Marketplace](https://www.digitalmarketplace.service.gov.uk/), a procurement platform for digital services.
+I'm Benjamin Gill,[^1] a developer working for you[^2] and employed by the [Crown Commercial Service](https://www.crowncommercial.gov.uk/). I'm working on the [Digital Marketplace](https://www.digitalmarketplace.service.gov.uk/), a procurement platform for digital services.
 
 [^1]: I prefer 'Benjamin', _not_ 'Ben'
 [^2]: Though technically the Crown
