@@ -17,4 +17,4 @@ I maintain a [public salary history]({{< ref "page/salary_history.md" >}}).
 
 I can be contacted at [\<anything>@bjgill.net](mailto:website@bjgill.net). [My GPG key](https://pgp.mit.edu/pks/lookup?op=vindex&search=0xB8D90097A597F067) has ID A597F067 and fingerprint F45F B6FF 33DF DE3A 820D 7BB0 B8D9 0097 A597 F067.
 
-I recently switched to bjgill.net from bgill.eu, which I will lose as a result of Brexit. Please change over my entry in your address book if you have not already done so. I may lose access to bgill.eu at very short notice.
+I used to use bgill.eu, but lost it due to Brexit.
