@@ -18,6 +18,7 @@ Here are some music recordings I like.
 
 ### Other
 
+* [A Life for the Tsar (Ivan Susanin)](https://youtube.com/playlist?list=PLwyLEvZOEdmcw99aKf0wVEAYdMlfhyRDw)
 * [Barber of Seville](https://youtu.be/oSjyDH4MJCc?t=60)
 * [Candide](https://youtu.be/cMIzHnyuiNY?t=458)
 * [Cosi Fan Tutte](https://www.youtube.com/watch?v=Is7smVObK64)
