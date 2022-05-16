@@ -7,7 +7,7 @@ I'm Benjamin Gill,[^1] a developer working for you[^2] and employed by the [Crow
 [^1]: I prefer 'Benjamin', _not_ 'Ben'
 [^2]: Though technically the Crown
 
-I am also an [amateur theatrical technician](https://www.camdram.net/people/benjamin-gill), avid board gamer, omnivorous reader, and really quite fond of opera.
+I am also an amateur theatrical technician, avid board gamer, omnivorous reader, and really quite fond of opera.
 
 My preferred pronouns are he/him or they/them.
 
