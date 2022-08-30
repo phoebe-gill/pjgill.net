@@ -2,14 +2,13 @@
 title = "An otherwise bald and unconvincing narrative"
 +++
 
-I'm Benjamin Gill,[^1] a developer working for you[^2] and employed by the [Crown Commercial Service](https://www.crowncommercial.gov.uk/). I'm working on the [Digital Marketplace](https://www.digitalmarketplace.service.gov.uk/), a procurement platform for digital services.
+I'm Benjamin Gill,[^1] a software engineer working for [Snyk](https://snyk.io/) to make it easier to develop secure software.
 
-[^1]: I prefer 'Benjamin', _not_ 'Ben'
-[^2]: Though technically the Crown
+[^1]: _not_ 'Ben'
 
-I am also an amateur theatrical technician, avid board gamer, omnivorous reader, and really quite fond of opera.
+I am rather fond of the theatre, particularly opera - both as audience and back stage. I enjoy board/role-playing/video games, and have been active in the Green Party.
 
-My preferred pronouns are he/him or they/them.
+My preferred pronouns are they/them or he/him.
 
 I maintain a [public salary history]({{< ref "page/salary_history.md" >}}).
 

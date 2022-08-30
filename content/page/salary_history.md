@@ -1,21 +1,21 @@
 +++
 title = "My salary history"
 date = "2019-04-09"
-tags = ["gds", "metaswitch", "ccs"]
+tags = ["gds", "metaswitch", "ccs", "snyk]
 +++
 
 I am publishing this page to allow my colleagues to compare their salaries with me. Therefore, I hereby consent to any and all processing (etc.) of this data by those working at any organisation below.[^1]
 
-# Government Digital Service -> Cabinet Office -> Crown Commercial Service (2020-present)
+# Government Digital Service -> Cabinet Office -> Crown Commercial Service (2020-2022)
 
-I am currently a Senior Developer. My salary was:
+I was a Senior Developer. My salary was:
 
 * for the first 3 months, at 'Proficient A' on the DDAT London pay scale, with a full-time-equivalent salary of £63 500
 * thereafter, at 'Proficient B' on the DDAT London pay scale, with a full-time-equivalent salary of £69 500
 
-I work part-time (90%). The civil service pension adds the equivalent of another ~20-25%.
+I worked part-time (90%). The civil service pension added the equivalent of another ~20-25%.
 
-I've been working on the Digital Marketplace all this time - we've just had a few transfers.
+I worked on the Digital Marketplace all this time - I just had a few transfers.
 
 # Government Digital Service (2019-20)
 
