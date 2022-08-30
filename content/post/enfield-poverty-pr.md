@@ -5,9 +5,6 @@ date = "2017-05-16"
 tags = ["green"]
 +++
 
-**This post was published before I became a civil servant. I am unable say whether I still agree with it.**
-
-
 At least 8,719 children in Enfield have been hit by the benefit cap, according to new figures from the Department of Work and Pensions.[^1] Greens will ensure that everyone in the UK – adults and children alike – has an income sufficient to fulfil basic needs.
 
 In statistics released at the same time as local election results, the DWP revealed the human cost of the benefit cap to local people.  More than 8,719 Enfield children in over 3,000 households have been affected by the cap since its introduction. Only Birmingham, with 3 times the population, has been worse hit. Enfield has also been particularly badly hit by child poverty, with a 39% poverty rate in Edmonton.[^2]
