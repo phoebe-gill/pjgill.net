@@ -6,9 +6,11 @@ I'm Benjamin Gill,[^1] a software engineer working for [Snyk](https://snyk.io/) 
 
 [^1]: _not_ 'Ben'
 
-I am rather fond of the theatre, particularly opera - both as audience and back stage. I enjoy board/role-playing/video games, and have been active in the Green Party.
+I am rather fond of the theatre, particularly opera - both as audience and back stage. I enjoy board/role-playing/video games, and am active in the Green Party.
 
-My preferred pronouns are they/them or he/him.
+My preferred pronouns are they/them.[^2]
+
+[^2]: the use of he/him is deprecated and will be removed in a future update; she/her is currently in alpha.
 
 I maintain a [public salary history]({{< ref "page/salary_history.md" >}}).
 
