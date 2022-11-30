@@ -2,7 +2,7 @@
 title = "An otherwise bald and unconvincing narrative"
 +++
 
-I'm Benjamin Gill,[^1] a software engineer working for [Snyk](https://snyk.io/) to make it easier to develop secure software.
+I'm Benjamin Gill,[^1] a software engineer.
 
 [^1]: _not_ 'Ben'
 
