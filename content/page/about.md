@@ -2,7 +2,7 @@
 title = "An otherwise bald and unconvincing narrative"
 +++
 
-I'm Benjamin Gill,[^1] a software engineer.
+I'm Benjamin Gill,[^1] a software engineer working for [Policy Expert](https://www.policyexpert.co.uk/).
 
 [^1]: _not_ 'Ben'
 
@@ -10,7 +10,7 @@ I am rather fond of the theatre, particularly opera - both as audience and back 
 
 My preferred pronouns are they/them.[^2]
 
-[^2]: the use of he/him is deprecated and will be removed in a future update; she/her is currently in alpha.
+[^2]: the use of he/him is deprecated and will be removed in a future update; she/her is currently in closed beta.
 
 I maintain a [public salary history]({{< ref "page/salary_history.md" >}}).
 
