@@ -11,7 +11,7 @@ In statistics released at the same time as local election results, the DWP revea
 
 The benefit cap was introduced in 2013 with support from the Tories, Lib Dems and Labour.
 
-Benjamin Gill, Green Party candidate for Edmonton, says: "Successive governments have failed the young people of Enfield. Under-privileged children should not pay the price of bankers' greed. Every person affected by this policy represents a tragedy."
+Phoebe Gill, Green Party candidate for Edmonton, says: "Successive governments have failed the young people of Enfield. Under-privileged children should not pay the price of bankers' greed. Every person affected by this policy represents a tragedy."
 
 David Flint, Green Party candidate for Enfield Southgate, adds "For seven years Tory chancellors backed by Tory MPs have preached the false gospel of austerity. This gospel demands sacrifices – but not from them. It is the young, the poor and the disabled who have made the sacrifices."[^3]
 

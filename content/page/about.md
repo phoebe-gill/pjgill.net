@@ -2,7 +2,7 @@
 title = "An otherwise bald and unconvincing narrative"
 +++
 
-I'm Benjamin Gill,[^1] a software engineer working for [Policy Expert](https://www.policyexpert.co.uk/).
+I'm Phoebe Gill,[^1] a software engineer working for [Policy Expert](https://www.policyexpert.co.uk/).
 
 [^1]: _not_ 'Ben'
 

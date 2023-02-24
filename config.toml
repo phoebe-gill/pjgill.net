@@ -1,18 +1,18 @@
 languageCode = "en-gb"
-baseurl = "https://bjgill.net/"
-title = "BGill"
-copyright = "Benjamin Gill"
+baseurl = "https://pjgill.net/"
+title = "PGill"
+copyright = "Phoebe Gill"
 theme = "ghostwriter"
 canonifyurls = true
 
 [Author]
-    name = "Benjamin Gill"
+    name = "Phoebe Gill"
 
 [Params]
     intro = true
     headline = "Idle chatter of a transcendental kind"
-    github = "https://github.com/bjgill"
-    email = "website@bjgill.net"
+    github = "https://github.com/phoebe-gill"
+    email = "website@pjgill.net"
     opengraph = false
 
 [Permalinks]
