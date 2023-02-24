@@ -8,9 +8,7 @@ I'm Phoebe Gill,[^1] a software engineer working for [Policy Expert](https://www
 
 I am rather fond of the theatre, particularly opera - both as audience and back stage. I enjoy board/role-playing/video games, and am active in the Green Party.
 
-My preferred pronouns are they/them.[^2]
-
-[^2]: the use of he/him is deprecated and will be removed in a future update; she/her is currently in closed beta.
+My preferred pronouns are she/her. They/them is also acceptable.
 
 I maintain a [public salary history]({{< ref "page/salary_history.md" >}}).
 
