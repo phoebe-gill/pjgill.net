@@ -21,4 +21,4 @@ jobs:
       - name: Deploy
         env:
           WEBDAV_PASSWORD: ${{ secrets.WEBDAV_PASSWORD }}
-        run: rclone copy www fastmail:b.bjgill.net/files/pjgill.net -v --webdav-pass $(rclone obscure "${WEBDAV_PASSWORD}") --config rclone.conf
+        run: rclone copy www fastmail:p.pjgill.net/files/pjgill.net -v --webdav-pass $(rclone obscure "${WEBDAV_PASSWORD}") --config rclone.conf
