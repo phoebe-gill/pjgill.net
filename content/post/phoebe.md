@@ -15,4 +15,4 @@ date = "2023-02-26"
 
 Hello. I am Phoebe. I use she/her pronouns (they/them is also acceptable).
 
-I am now testing being me publicly, and plan to completely cease playing the role of Benjamin by the end of this year. Please update my details in any system you control. For both email and website, `pjgill.net` replaces `bjgill.net`.
+Please update my details in any system you control. For both email and website, `pjgill.net` replaces `bjgill.net`.
