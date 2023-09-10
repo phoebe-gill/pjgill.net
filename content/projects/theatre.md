@@ -11,6 +11,7 @@ date = "2023-06-03"
 
 ## Theatre I've watched
 
+* A Strange Loop; September 2023; Barbican Theatre: quite incredible. The lighting designer was having a lot of fun.
 * The Dead City; April 2023; London Coliseum: weird and surprising, but I enjoyed it. Some good lighting to contrast the inside with the dead city outside.
 * Witness for the Prosecution; March 2023; London Guildhall
 * The Effect; March 2023; Bridewell Theatre
