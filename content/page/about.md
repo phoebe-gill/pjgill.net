@@ -2,11 +2,11 @@
 title = "An otherwise bald and unconvincing narrative"
 +++
 
-I'm Phoebe Gill, a software engineer working for [Policy Expert](https://www.policyexpert.co.uk/).
+Hi, I'm Phoebe Gill. I work for [Policy Expert](https://www.policyexpert.co.uk/) as a software engineer.
 
 I am rather fond of the theatre, particularly opera - both as audience and back stage. I enjoy board/role-playing/video games, and am active in the Green Party.
 
-My preferred pronouns are she/her. They/them is also acceptable.
+My preferred pronouns are she/her. I'm queer, trans, bi, and poly.
 
 I maintain a [public salary history]({{< ref "page/salary_history.md" >}}).
 
