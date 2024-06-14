@@ -10,7 +10,7 @@ canonifyurls = true
 
 [Params]
     intro = true
-    headline = "Idle chatter of a transcendental kind"
+    headline = "Phoebe Gill"
     github = "https://github.com/phoebe-gill"
     email = "website@pjgill.net"
     opengraph = false

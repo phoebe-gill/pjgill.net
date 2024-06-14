@@ -1,5 +1,5 @@
 +++
-title = "An otherwise bald and unconvincing narrative"
+title = "About me"
 +++
 
 Hi, I'm Phoebe Gill. I'm currently standing as the Green Party candidate for Bethnal Green and Stepney.
