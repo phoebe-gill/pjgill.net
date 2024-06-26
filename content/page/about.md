@@ -10,8 +10,6 @@ I am rather fond of the theatre, particularly opera - both as audience and back 
 
 My pronouns are she/her. I'm queer, trans, bi, and poly.
 
-I maintain a [public salary history]({{< ref "page/salary_history.md" >}}).
-
 # Contact
 
 For correspondance about my candidacy, please contact me at <bethnal.green.stepney@votegreen.uk>.
