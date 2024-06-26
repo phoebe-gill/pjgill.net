@@ -2,7 +2,7 @@
 title = "About me"
 +++
 
-Hi, I'm Phoebe Gill. I'm currently standing as the Green Party candidate for Bethnal Green and Stepney.
+Hi, I'm Phoebe Gill. I'm currently standing as the Green Party candidate for Bethnal Green and Stepney. Find out [about me and why I'm standing]({{< ref "post/bethnal-green-and-stepney.md" >}}).
 
 I work for [Policy Expert](https://www.policyexpert.co.uk/) as a software engineer.
 
