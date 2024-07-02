@@ -3,7 +3,7 @@ title = "The cruelty is the point"
 description = "Why is the UK government blocking the Scottish GRC bill?"
 draft = false
 date = "2023-01-17"
-tags = ["diversity"]
+tags = ["diversity", "trans"]
 +++
 
 The UK government has now published the [reasons for blocking the Gender Recognition Reform (Scotland) Bill](https://www.gov.uk/government/publications/statement-of-reasons-related-to-the-use-of-section-35-of-the-scotland-act-1998/html-version). It's quite lengthy, so let me summarise they reasons they gave.
