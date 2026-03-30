@@ -1,7 +1,7 @@
 +++
 title = "A \"really tiny number\""
 description = "What does Cass' recent BBC interview reveal?"
-draft = true
+draft = false
 date = "2026-03-30"
 tags = ["diversity", "trans"]
 +++
