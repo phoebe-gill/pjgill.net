@@ -30,7 +30,7 @@ Once Experian had started processing my application, they send a copy to Equifax
 
 I sent an email to [graadvicelineuk@equifax.com](mailto:graadvicelineuk@equifax.com) (linked from the Experian page) asking them for a digital copy of their application pack. I had to chase them - making it explicit that this was a GDPR data correction request, which meant they had to answer within one month.
 
-They eventually sent me a digital copy of their [GRA Information Pack](correcting-credit-report/gra-information-pack-equifax.pdf), which I filled in and sent back. They acted on this fairly quickly.
+They eventually sent me a digital copy of their [GRA Information Pack](/correcting-credit-report/gra-information-pack-equifax.pdf), which I filled in and sent back. They acted on this fairly quickly.
 
 My advice would be to fill in and send the GRA information pack to Equifax at the same time as doing the equivalent for Experian - you'll have to do it all eventually and this will speed things up.
 
@@ -40,4 +40,4 @@ TransUnion were rubbish at communication. Experian sent them a copy of my applic
 
 So my advice would be to wait for them to act on the pack that Experian will send them. You can check the status of your credit report by viewing your [online statutory credit report](https://www.transunionstatreport.co.uk/CreditReport/AboutYou).
 
-The alternative is to send an email to [ukspecialistservices@transunion.com](mailto:ukspecialistservices@transunion.com). Their [advice pack](correcting-credit-report/gra-advice-pack-transunion.pdf) is very unhelpful, unclear and missing some of the forms you'll need to fill in, but lists most of what they want from you.
+The alternative is to send an email to [ukspecialistservices@transunion.com](mailto:ukspecialistservices@transunion.com). Their [advice pack](/correcting-credit-report/gra-advice-pack-transunion.pdf) is very unhelpful, unclear and missing some of the forms you'll need to fill in, but lists most of what they want from you.
