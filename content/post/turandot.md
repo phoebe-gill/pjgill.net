@@ -2,7 +2,7 @@
 title = "\"I want the triumph! I want love!\""
 description = "Thoughts about the ROH's recent production of _Turandot_"
 date = "2017-08-08"
-tags = ["music", "diversity"]
+tags = ["music", "being a decent human being"]
 +++
 
 Recently, I saw a performance of [_Turandot_](http://www.roh.org.uk/productions/turandot-by-andrei-serban) - Puccini's final opera - at the Royal Opera House. It was very enjoyable, but left me with some interesting thoughts.

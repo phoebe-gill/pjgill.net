@@ -3,7 +3,7 @@ title = "A \"really tiny number\""
 description = "What does Cass' recent BBC interview reveal?"
 draft = false
 date = "2026-03-30"
-tags = ["diversity", "trans"]
+tags = ["being a decent human being", "trans"]
 +++
 
 In an interview last month with the BBC, Hillary Cass said:

@@ -3,7 +3,7 @@ title = "AlterConf London"
 description = "Diversity and inclusion in the tech industry"
 draft = false
 date = "2017-04-07"
-tags = ["diversity", "metaswitch"]
+tags = ["being a decent human being", "metaswitch"]
 +++
 
 I recently attended [AlterConf London](https://alterconf.com/conferences/london-england), a rather interesting conference examining diversity and inclusion in the software industry.

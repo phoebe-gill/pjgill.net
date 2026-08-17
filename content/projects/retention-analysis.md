@@ -3,7 +3,7 @@ title = "Do we have a gender retention gap?"
 description = "A pre-trial registration"
 draft = false
 date = "2018-04-03"
-tags = ["diversity", "metaswitch"]
+tags = ["being a decent human being", "metaswitch"]
 +++
 
 # Introduction
